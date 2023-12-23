@@ -1,7 +1,10 @@
 # DIO - Trilha .NET - Programação orientada a objetos
 www.dio.me
 
-## Desafio de projeto
+## Desafio de projeto Decola Tech Avanade 2024
+Este desafio foi solucionado em C# e Python.
+
+
 Para este desafio, você precisará usar seus conhecimentos adquiridos no módulo de orientação a objetos, da trilha .NET da DIO.
 
 ## Contexto
